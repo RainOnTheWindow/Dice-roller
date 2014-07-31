@@ -25,5 +25,5 @@ while reroll is True:
     else:
         print('Thank-you for using the dice roller!')
         reroll = False
-        reroll = False
+        
         
